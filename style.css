@@ -1,0 +1,25 @@
+.encabezado{
+    text-align:center;
+  }
+  .events{
+    display:flex;
+    flex-direction:column-reverse;
+  }
+  #cita{
+    text-align:center;
+    font-size: 15px;
+  }
+  #img{
+    text-align:center;
+    border-style:double;
+    border-width:5px;
+  }
+  footer{
+    margin-top: 50px;
+    display:flex;
+    justify-content:flex-end;
+    
+  }
+  body{
+    background-color:gray;
+  } 
